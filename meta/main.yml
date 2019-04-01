@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author:
+  description:
+  company: Traveloka
+  license: license (Apache2)
+  min_ansible_version: 1.2
+  platforms:
+    - name: Ubuntu
+  versions:
+    - trusty
+  categories:
+    - packaging
+  dependencies: []
+      
